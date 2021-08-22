@@ -1,0 +1,11 @@
+﻿ add reference -->
+
+ 1. BUS --> DAL
+
+ 2. GUI --> BUS
+
+
+ Project Public
+
+   -Vi sao khai bao kieu ddu lieu co dau ?.
+		Vì đôi lúc update kiểu dữ liệu của Model Entity bị thay đổi có dấu ?

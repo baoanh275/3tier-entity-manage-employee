@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="94e9dd1f78bd4d6e809c8c4a36bb681f" Name="Diagram1">
+        <EntityTypeShape EntityType="QLNHANVIENModel.NHANVIEN" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNHANVIENModel.PHANCONG" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNHANVIENModel.PHONG" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNHANVIENModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNHANVIENModel.VIECLAM" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <AssociationConnector Association="QLNHANVIENModel.FK__PHANCONG__MaNhan__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNHANVIENModel.FK_PHONG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNHANVIENModel.FK__PHANCONG__MaViec__37A5467C" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

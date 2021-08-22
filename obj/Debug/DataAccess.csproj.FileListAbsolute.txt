@@ -1,0 +1,10 @@
+C:\Users\Welcome\source\repos\3tierEntityFramework\bin\Debug\3tierEntityFramework.exe.config
+C:\Users\Welcome\source\repos\3tierEntityFramework\bin\Debug\3tierEntityFramework.exe
+C:\Users\Welcome\source\repos\3tierEntityFramework\bin\Debug\3tierEntityFramework.pdb
+C:\Users\Welcome\source\repos\3tierEntityFramework\bin\Debug\Public.dll
+C:\Users\Welcome\source\repos\3tierEntityFramework\bin\Debug\Public.pdb
+C:\Users\Welcome\source\repos\3tierEntityFramework\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Welcome\source\repos\3tierEntityFramework\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\3tierEntityFramework\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Welcome\source\repos\3tierEntityFramework\obj\Debug\3tierEntityFramework.exe
+C:\Users\Welcome\source\repos\3tierEntityFramework\obj\Debug\3tierEntityFramework.pdb
